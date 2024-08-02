@@ -2,7 +2,7 @@
 
 ###
 
-👤Meu nome é Wellington Camillo e sou Consultor de Soluções Digitais do Rio de Janeiro, Brasil.</p>
+👤Meu nome é Wellington Camilo, sou Consultor de Soluções Digitais e moro Rio de Janeiro, Brasil.</p>
 
 ###
 
