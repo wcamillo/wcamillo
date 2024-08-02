@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">✨ <b>Criando bugs desde 2019</b><br>  <b>⏳ Mais de 2 anos de experiência em soluções Salesforce</b><br>🔖 <b>Certificações:</b> Associate, AI Associate, Administrator<br>💼  <b>Especialidades:</b> Service Cloud, Sales Cloud</p>
+<p align="left"><b>⏳ Mais de 2 anos de experiência em soluções Salesforce</b><br>🔖 <b>Certificações:</b> Associate, AI Associate, Administrator<br>💼  <b>Especialidades:</b> Service Cloud, Sales Cloud</p>
 
 ###
 
