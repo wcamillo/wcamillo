@@ -22,7 +22,7 @@
 
 ###
 
-<h2 align="left">Eu programo com</h2>
+<h2 align="left">Habilidades</h2>
 
 ###
 
@@ -43,6 +43,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original-wordmark.svg" height="40" alt="bitbucket logo"  />
 </div>
+
+###
+
+<h2 align="left">Redes Sociais</h2>
 
 ###
 
