@@ -1,8 +1,7 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<p align="left">Ei 👋 Tudo bem?<br>
 
 ###
 
-<p align="left">Ei 👋 Tudo bem?<br>
 👤Meu nome é Wellington Camillo e sou Consultor de Soluções Digitais do Rio de Janeiro, Brasil.</p>
 
 
